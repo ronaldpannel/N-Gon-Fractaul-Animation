@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+  overflow: hidden;
+}
+canvas {
+  border: white solid 3px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
