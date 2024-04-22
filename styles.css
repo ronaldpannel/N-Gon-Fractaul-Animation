@@ -6,7 +6,6 @@ body {
   overflow: hidden;
 }
 canvas {
-  border: white solid 3px;
   position: absolute;
   left: 50%;
   top: 50%;
